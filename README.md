@@ -4,7 +4,10 @@ A third-person survival horror game set in an abandoned asylum, made in Unity.
 
 **[▶ Play on itch.io](https://lezuhy.itch.io/breachbury)**
 
-![Screenshot](screenshot1.png)
+![Screenshot](slika%201.png)
+![Screenshot](slika%202.png)
+![Screenshot](slika%203.png)
+![Screenshot](slika%204.png)
 
 ## Features
 - Grid inventory system (ammo, healing, batteries, keys)
